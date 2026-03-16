@@ -148,7 +148,7 @@ hooks/
 
 This is a **paid template**. Source code is available on Gumroad.
 
-👉 **[Buy for $8 → Get Instant Download](https://manahila11.gumroad.com/l/girafx)**
+👉 **[Get Instant Download](https://manahila11.gumroad.com/l/girafx)**
 
 ---
 
@@ -170,5 +170,5 @@ You may **not** resell or redistribute the source code itself.
 
 Made with ❤️ · If you like it, leave a ⭐
 
-**[🔴 Live Demo](https://manahil-tech-11cz.vercel.app/)** · **[💳 Buy Now — $8](https://manahila11.gumroad.com/l/girafx)**
+**[🔴 Live Demo](https://manahil-tech-11cz.vercel.app/)** · **[💳 Download ](https://manahila11.gumroad.com/l/girafx)**
 
